@@ -1,0 +1,119 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+	outline: 0px;
+}
+a
+{
+	text-decoration: none;
+	
+}
+	#logo
+	{
+		display: block;
+	}
+	.delete_post
+	{ 
+	 
+		padding: 5px;
+		padding-left: 0px;
+ 
+	}
+	
+	.update_post
+	{ 
+		 
+		padding: 5px;
+		padding-left: 15px;
+ 
+	}
+	.display_reply
+	{ 
+ 
+		padding: 5px;
+		padding-left: 10px;
+	}
+	#title
+	{
+		
+font-weight: bold;
+		
+	}
+	
+    .time
+    {
+		 
+		display: block;
+		height: 30px;
+		margin-top: 5px;
+
+    }
+    .p, .post_row
+    {
+		 
+		display: block;
+		height: 30px;
+    }
+	label
+	{
+		
+		display:inline-block;
+		height: 25px;
+		width: 65px;
+		
+	}
+	#message
+	{
+	height: 150px;	
+		
+	}
+	.submit
+	{
+		margin-left: 170px;
+		
+	}
+	
+	.rtime
+	{
+		display:block;
+		height: 30px;
+		margin-left: 30px;
+		margin-top: 5px;
+		
+	}
+    .r
+    {
+ 
+		margin-left: 30px;
+		display: block;
+		height: 30px;
+ 
+       }
+  .rtime
+       { 
+		
+   		display: block;
+   		height: 30px;
+   		margin-left: 30px;
+   		margin-top: 5px;
+
+       }
+
+  
+	.rdelete_reply
+	{ 	 
+		margin-left: 30px;
+	
+	}
+ 
+	
+	.rupdate_reply 
+	{  
+		margin-left: 30px;
+		padding-left: 5px;
+	 
+ 
+	}
+ 
+ 
